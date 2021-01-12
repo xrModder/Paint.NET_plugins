@@ -1,2 +1,4 @@
-# Paint.NET_plugins
-Plugins for Paint.NET
+# Plugins for Paint.NET
+
+## Plugin List:
+- Normal Map restore plugin
